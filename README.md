@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yash Hinge 👋
 
-<!--
-**HSAY-23/HSAY-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI Engineer | PCM Student | B.Tech Incoming 2026
+📍 Maharashtra, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧠 Passionate about Artificial Intelligence and Machine Learning
+- 📚 Currently upskilling in AI with 8 hours daily dedication
+- 💡 Building from zero to job-ready in 4 months
+- 🔥 Started my AI journey on April 25, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications Earned
+- ✅ Introduction to Generative AI — Google Cloud (April 2026)
+- ✅ Introduction to Large Language Models — Google Cloud (April 2026)
+- ✅ Introduction to Responsible AI — Google Cloud (April 2026)
+
+## 📚 Currently Learning
+- 🐍 Python for AI
+- 🤖 Machine Learning Fundamentals
+- ✨ Generative AI and Prompt Engineering
+
+## 🛠️ Tools & Platforms
+![Python](https://img.shields.io/badge/Python-Learning-blue)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-green)
+![Kaggle](https://img.shields.io/badge/Kaggle-Active-blue)
+![Colab](https://img.shields.io/badge/Google_Colab-Active-orange)
+
+## 📈 My 4 Month Goal
+> Building real AI projects and earning recognized certificates before B.Tech begins — May to August 2026
+
+## 📊 My GitHub Stats
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSAY-23&show_icons=true&theme=radical)
+
+## 🔥 My Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=HSAY-23&theme=radical)
